@@ -1,0 +1,2 @@
+admin,1234,Manager
+kehan,1234,SalesRep

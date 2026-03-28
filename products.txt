@@ -1,0 +1,2 @@
+samsung,galaxy s24,Smartphone,24gb ram,200000
+Apple,Applewatch,Accessory,125gb,50000
